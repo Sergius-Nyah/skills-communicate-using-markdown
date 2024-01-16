@@ -8,3 +8,8 @@
 
 ## Name.py
 print(Sergius)
+
+## Task List
+- [x] Write this!
+- [ ] Commit it!
+- [ ] Sip coffee :)
